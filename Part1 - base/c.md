@@ -52,4 +52,4 @@ C语言的源代码文件是一个普通的文本文件，<font color=red>但扩
 
 ![alt](/picture/1.png "Magic")
 
-<img src="/picture/1.png" width = "100" height = "100" div align=center />
+<img src="/picture/1.png" width = "100" height = "100" div align=right />
