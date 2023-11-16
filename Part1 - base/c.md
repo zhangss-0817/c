@@ -49,4 +49,5 @@ C语言的源代码文件是一个普通的文本文件，<font color=red>但扩
 - int main()和void main()在C语言中是一样的，但C++只接受int main这种定义方式
 # 2. 数据类型
 **1. 关键字**
+
 ![alt](/picture/1.png "Magic")
